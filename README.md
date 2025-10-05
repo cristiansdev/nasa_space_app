@@ -16,3 +16,7 @@ echo "AWS_SECRET_ACCESS_KEY=YOUR_AWS_SECRET" >> .env
 
 # 5️⃣ Run the app
 streamlit run app/Home.py
+
+## NOTA
+
+La documentación sigue en proceso
